@@ -1,5 +1,5 @@
 # rasp-arduino-mqtt-highcharts
-communication amopng raspberry pi / arduino / mqtt broker / mqtt subscriber / higcharts visualizsation
+communication among raspberry pi / arduino / mqtt broker / mqtt subscriber / higcharts visualizsation
 
 Led_Arduino_Raspberry.py -> Sets up the broker and request value from Arduino
 
